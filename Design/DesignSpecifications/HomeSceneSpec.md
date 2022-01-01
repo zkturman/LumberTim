@@ -1,14 +1,12 @@
-Home Scene
+## Home Scene ##
 
-**Purpose**
+### Purpose ###
 
 The purpose of this scene is to serve as a starting point for the
 application from where players can navigate to the different primary
 areas of the game.
 
- 
-
-**Setting and Story**
+### Setting and Story ###
 
 Within this scene, players will see the title of the game and buttons
 for the primary functionality of the game. Buttons are yellow, and the
@@ -18,38 +16,21 @@ scene, either in silhouette or next to the menu buttons. The title
 should appear at the top of the screen in block lettering, optionally
 with an outline.
 
- 
+### Concept artwork ###
 
-**Concept artwork**
-
-![Shape Description automatically generated with low
-confidence](media/image1.png)
-
-**Primary Action**
+### Primary Action ###
 
 Player selects Play from the menu.
 
- 
-
-**Exit Action**
+### Exit Action ###
 
 Player selects Exit from the menu or closes the application through the
 mobile device OS close function.
 
- 
+### Flow Diagram ###
 
-**  
-**
-
-**Flow Diagram**
-
-![](media/image2.png)
-
- 
-
-**  
-**
+![](../FlowDiagrams/HomeSceneFlow.png)
 
 **UI Prototype**
 
-![](media/image3.png)
+![](../UIPrototypes/HomeScene.PNG)
