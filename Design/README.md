@@ -2,8 +2,7 @@
 
 This mobile game features a lumberjack named Tim who cuts downs trees. Players will guide Tim as he progresses through his career as a lumberjack by helping him chop down trees. Users will collect currency for cutting down trees and as their skills progress, they will be able to cut down more difficult trees.
 
-## Home Scene ##
-
+## [Home Scene](DesignSpecifications/HomeSceneSpec.md) ##
 On the home scene, users must be able to take three different actions and do the following
 * Select an action for playing the game that opens the Gameplay Base Scene
 * Select an option to configure settings that opens a new scene
