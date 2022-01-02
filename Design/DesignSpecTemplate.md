@@ -24,6 +24,6 @@
 
 ![](media/image1.png)
 
-**UI Prototype**
+### UI Prototype ###
 
 ![](media/image1.png)
