@@ -31,7 +31,7 @@ mobile device OS close function.
 
 ![image](FlowDiagrams/HomeSceneFlow.png)
 
-**UI Prototype**
+### UI Prototype ###
 
 ![image](UIPrototypes/HomeScene.PNG)
 
@@ -39,19 +39,27 @@ mobile device OS close function.
 
 ### Purpose ###
 
+The purpose of this scene is to server as a branching point for any primary gameplay-related actions. Players can access the tree chopping functionality, store, avatar editing, or player skills.
+
 ### Setting and Story ###
 
-### Concept artwork ###
+The scene will feature greens and yellows similarly to the Home Scene. This will optionally include silhouettes for trees. Button animations may involve woodchips or sawdust.
+
+### Concept artwork ###a
 
 ### Primary Action ###
 
+Players will primarily visit the Tree Select scene.
+
 ### Exit Action ###
+
+Player selects the Back button or uses the back functionality within their phone's operating system. To close the application, players will need to return to the Home Scene or use the phone's application close functionality.
 
 ### Flow Diagram ###
 
 ![image](FlowDiagrams/GameplayBaseSceneFlow.png)
 
-**UI Prototype**
+### UI Prototype ###
 
 ![image](UIPrototypes/GameplayBaseScene.PNG)
 
@@ -59,21 +67,44 @@ mobile device OS close function.
 
 ### Purpose ###
 
+The primary purpose of this scene is for players to select a tree to chop down.
+
 ### Setting and Story ###
+
+Trees are found in horizontally scrollable list that provides a graphic for the tree. Trees are ordered in list of increased 'hardness':
+  - Sapling
+  - Dead tree
+  - Pine
+  - Chestnut
+  - Elder
+  - Birch
+  - Oak
+  - Ash
+  - Blackwood
+  - Rosewood
+  - Ebony
+  - Ironwood
+  - Kingwood
 
 ### Concept artwork ###
 
 ### Primary Action ###
 
+Players are intended to tap a tree to select it.
+
 ### Exit Action ###
+
+Players can use the Back button or the OS back functionality. To quit the game, players can either close the application through the phone's OS or close the application from the Home Scene.
 
 ### Flow Diagram ###
 
 ![image](FlowDiagrams/TreeSelectSceneFlow.png)
 
-**UI Prototype**
+### UI Prototype ###
 
 ![image](UIPrototypes/TreeSelectScene.PNG)
+
+#### Warning if another tree is already being chopped ####
 ![image](UIPrototypes/TreeSelectModal.PNG)
 
 ## Tree Chopping Scene ##
