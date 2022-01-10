@@ -111,13 +111,21 @@ Players can use the Back button or the OS back functionality. To quit the game, 
 
 ### Purpose ###
 
+Players can chop down trees in this scene by tapping the screen. This is the scene with the primary gameplay for the game.
+
 ### Setting and Story ###
+
+A tree image will display in the middle of the screen, potentially with a sprite of the lumberjack next to the tree. The ground will be brown or yellow, and there will be a background with additional trees behind. When the player taps the screen, sawdust and wood chip particles will appear on the screen. A chopping clip will also play. The tree will be generated with a variable number of chops based on the tree's hardness. As the player taps the screen, the total number of chops will increase. At different stages, the tree's image will change to represent progress in cutting the tree down. After cutting the tree down, players are awarded currency. When reaching certain milestones, skill oints will be rewarded.  
 
 ### Concept artwork ###
 
 ### Primary Action ###
 
+Tap the screen to chop the tree.
+
 ### Exit Action ###
+
+Press the back button. To exit the game, players must back up to the Home Scene and press the close button, or use the phone's OS application close funtionality.
 
 ### Flow Diagram ###
 
@@ -132,13 +140,21 @@ Players can use the Back button or the OS back functionality. To quit the game, 
 
 ### Purpose ###
 
+Players can purchase goods to change the lumberjack's aesthetics or improve chopping capabilities (including additional lumberjacks to chop autonomously). 
+
 ### Setting and Story ###
+
+The currency should have an older feel, something prior to the use of chainsaws.
 
 ### Concept artwork ###
 
 ### Primary Action ###
 
+Tapping a good to purchase it.
+
 ### Exit Action ###
+
+Press the back button. To exit the game, players must back up to the Home Scene and press the close button, or use the phone's OS application close funtionality.
 
 ### Flow Diagram ###
 
@@ -161,6 +177,8 @@ Players can use the Back button or the OS back functionality. To quit the game, 
 
 ### Exit Action ###
 
+Press the back button. To exit the game, players must back up to the Home Scene and press the close button, or use the phone's OS application close funtionality.
+
 ### Flow Diagram ###
 
 ![image](FlowDiagrams/AvatarEditSceneFlow.png)
@@ -182,6 +200,8 @@ Players can use the Back button or the OS back functionality. To quit the game, 
 
 ### Exit Action ###
 
+Press the back button. To exit the game, players must back up to the Home Scene and press the close button, or use the phone's OS application close funtionality.
+
 ### Flow Diagram ###
 
 ![image](FlowDiagrams/PlayerStatSceneFlow.png)
@@ -201,6 +221,8 @@ Players can use the Back button or the OS back functionality. To quit the game, 
 ### Primary Action ###
 
 ### Exit Action ###
+
+Press the back button. To exit the game, players must back up to the Home Scene and press the close button, or use the phone's OS application close funtionality.
 
 ### Flow Diagram ###
 
@@ -224,6 +246,8 @@ Players can use the Back button or the OS back functionality. To quit the game, 
 ### Primary Action ###
 
 ### Exit Action ###
+
+Wait for the next day to begin.
 
 ### Flow Diagram ###
 
