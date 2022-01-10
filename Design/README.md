@@ -45,7 +45,7 @@ The purpose of this scene is to server as a branching point for any primary game
 
 The scene will feature greens and yellows similarly to the Home Scene. This will optionally include silhouettes for trees. Button animations may involve woodchips or sawdust.
 
-### Concept artwork ###a
+### Concept artwork ###
 
 ### Primary Action ###
 
