@@ -186,7 +186,7 @@ Press the back button. To exit the game, players must back up to the Home Scene 
 **UI Prototype**
 
 ![image](UIPrototypes/AvatarEditScene.PNG)
-![image](UIPrototypes/AvatarEditColourSelectModal.PNG)
+![image](UIPrototypes/AvatarEditColourSelectModal.png)
 
 ## Player Stat Scene ##
 
